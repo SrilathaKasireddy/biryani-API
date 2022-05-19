@@ -1,0 +1,26 @@
+#button{
+
+ border-color:red;
+ display: flex;
+ margin-bottom: 1%;
+ font-weight:bolder;
+ background-color:whitesmoke;
+ border-style: double;
+ 
+}
+#img{
+ width:30%;
+ height:500px;
+}
+
+
+h1,h2{
+ align-items:center;
+ text-align: center;
+ color: wheat;
+ font-weight: bolder;
+}
+#button:hover{
+background-color: yellow;
+}
+
